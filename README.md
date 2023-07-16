@@ -49,16 +49,16 @@
 </div>
 
 ###
+<div align="left">
+  <a href="https://balazsfxx.github.io/webpage/" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/1107732364374843534/1130114388431491122/Website-Transparent-Free-PNG.png" height="60" alt="discord logo"  />
+  </a>
 
 <div align="right">
   <a href="https://discord.com/users/784477308403712001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   
-<div align="left">
-  <a href="https://balazsfxx.github.io/webpage/" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1107732364374843534/1130114388431491122/Website-Transparent-Free-PNG.png" height="60" alt="discord logo"  />
-  </a>
 
 
 ###
