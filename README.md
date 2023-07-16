@@ -57,7 +57,7 @@
   
 <div align="mid">
   <a href="https://discord.com/users/784477308403712001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+    <img src="https://cdn.discordapp.com/attachments/1107732364374843534/1130114068573868185/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" height="40" alt="discord logo"  />
   </a>
 
 
