@@ -56,8 +56,8 @@
   </a>
   
 <div align="mid">
-  <a href="https://discord.com/users/784477308403712001" target="_blank">
-    <img src="https://cdn.discordapp.com/attachments/1107732364374843534/1130114068573868185/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" height="40" alt="discord logo"  />
+  <a href="https://balazsfxx.github.io/webpage/" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/1107732364374843534/1130114388431491122/Website-Transparent-Free-PNG.png" height="40" alt="discord logo"  />
   </a>
 
 
