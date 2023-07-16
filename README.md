@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedy1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaysfxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedy1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Pedy1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -45,13 +45,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Pedy1/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Balazsfxx/count.svg?"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://discord.gg/forma-roleplay-4ma-hungary-1022820197003972608" target="_blank">
+  <a href="https://discord.gg/MvByPyS7hq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
